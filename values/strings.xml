@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tic Tac Toe Demo</string>
+    <string name="main_board_layout">tic_tac_toe_board</string>
+    <string name="top_left">top_left_slot</string>
+    <string name="top_middle">top_middle_slot</string>
+    <string name="top_right">top_right_slot</string>
+    <string name="middle_left">middle_left_slot</string>
+    <string name="middle_middle">middle_middle_slot</string>
+    <string name="middle_right">middle_right_slot</string>
+    <string name="bottom_left">bottom_left_slot</string>
+    <string name="bottom_middle">bottom_middle_slot</string>
+    <string name="bottom_right">bottom_right_slot</string>
+</resources>
